@@ -1,1 +1,1 @@
-# Simple-MultiThreat-Port-Scanner---Go-
+SimpleThread_PortScanner_Go
